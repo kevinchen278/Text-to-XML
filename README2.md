@@ -20,15 +20,15 @@ output file:
    
 Application Structure
 
-src/main/java/org/kevinchen278/java/toxml/---App.java          --- application entry.
+      src/main/java/org/kevinchen278/java/toxml/---App.java    --- application entry.
                                              XMLConvertor.java --- Main Class.
                                              MyUtil.java       --- Common Class provided all the common static functions.
-                                             Policy.java       ---- not use.
-                                             MockData.java     ---- empty.
-pom.xml    ------   setting file, for maven.
-README.md   ------  this file.
-policies.txt -----  Text file with a few data for testing
-policies.xml -----  generated xml file from associated text file.
+                                             Policy.java       --- not use.
+                                             MockData.java     --- empty.
+      pom.xml      ----   Setting file for maven.
+      README.md    ----   This file.
+      policies.txt -----  Text file with a few data for testing
+      policies.xml -----  generated xml file from associated text file.
 
 
    
