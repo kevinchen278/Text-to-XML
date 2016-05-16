@@ -1,5 +1,5 @@
 # Text-to-XML
-Small Java sample for transfering text file to xml file.
+A simple Java sample for transfering text file to xml file.
 
 Application Implement with Plain Java.
    
